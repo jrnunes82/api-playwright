@@ -38,5 +38,5 @@ A suíte cobre 100% dos endpoints solicitados e regras de negócio da API de Usu
 
 1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/jrnunes82/api-playwright.git](https://github.com/jrnunes82/api-playwright.git)
-   cd api-playwright
+	git clone https://github.com/jrnunes82/api-playwright.git
+	cd api-playwright
